@@ -32,7 +32,7 @@ Check out the live demo of the website here: [Live Demo Link](#)
 
 ## Screenshots
 
-![Desktop View](/screenshots/desktop.png) ![carrerimg](https://github.com/user-attachments/assets/5e57ec13-09da-4972-bcef-e32f0441dddd)
+![Desktop View]bootstrap/Career-Focused Curriculumimg.jpeg
 
 ![Mobile View](/screenshots/mobile.png) 
 
