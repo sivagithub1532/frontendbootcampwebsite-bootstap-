@@ -30,14 +30,6 @@ Check out the live demo of the website here: [Live Demo Link](#)
 
 ---
 
-## Screenshots
-
-![Desktop View](bootstrap/Career-Focused Curriculumimg.jpeg)
-
-![Mobile View](/screenshots/mobile.png) 
-
----
-
 ## Installation
 
 To run this project locally, follow these steps:
