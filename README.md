@@ -26,14 +26,15 @@ Welcome to the repository for my **Bootstrap Front-End Bootcamp Website**! This 
 
 ## Live Demo
 
-Check out the live demo of the website here: [Live Demo Link](#) *(Replace with your actual deployment link)*
+Check out the live demo of the website here: [Live Demo Link](#)
 
 ---
 
 ## Screenshots
 
-![Desktop View](/screenshots/desktop.png) *(Add your own screenshots)*  
-![Mobile View](/screenshots/mobile.png) *(Add your own screenshots)*
+![Desktop View](/screenshots/desktop.png) ![carrerimg](https://github.com/user-attachments/assets/5e57ec13-09da-4972-bcef-e32f0441dddd)
+
+![Mobile View](/screenshots/mobile.png) 
 
 ---
 
